@@ -13,6 +13,7 @@
 - 📫 How to reach me **binderdezso97@gmail.com**
 
 - ⚡ Fun fact **I'm a proud dog dad over 2 years now!**
+- 🎥 You can find short videos about my IoT journey [by clicking here](https://www.youtube.com/@dezsoab)
 
 
 
