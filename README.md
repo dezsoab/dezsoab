@@ -6,8 +6,6 @@
 </p>
 
 
-- 🔭 I’m currently working on [Yum!](https://github.com/dezsoab/yum)
-
 - 💬 Ask me about **React, Java, IoT, Raspberry Pi**
 
 - 📫 How to reach me **binderdezso97@gmail.com**
